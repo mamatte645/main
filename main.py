@@ -28,9 +28,9 @@ ascii = """
                         
              
                      
-                                 ╔═╗  ╔═╗  ╦ ╦  ╔╦╗
-                                 ╚═╗  ║ ║  ╠═╣   ║ 
-                                 ╚═╝  ╚═╝  ╩ ╩   ╩ 
+                                ╔═╗  ╔═╗  ╦ ╦  ╔╦╗
+                                ╚═╗  ║ ║  ╠═╣   ║ 
+                                ╚═╝  ╚═╝  ╩ ╩   ╩ 
                   ║══════╦══════════════════════════════╦═════║  
                   ║  S O H T C2 VRAI PUISSANCE  NO FAKE POWER ║
                   ║══════╦══════════════════════════════╦═════║   
@@ -41,27 +41,27 @@ ascii = """
                       ║    Powerful Layer4/7 + Bypasses    ║     
                       ╚══╦══════════════════════════════╦══╝
              ╔═══════════╩══════════════════════════════╩═════════╗
-             ║ - -Copyright @ 2022 XtraFox All Rights Reserved- -   ║
+             ║ - -Copyright @ 2022 XtraFox All Rights Reserved- - ║
              ║ - - -     [help] POUR VOIR LES COMMANDE      - - - ║
              ╚════════════════════════════════════════════════════╝"""
 
 ascii2= """
                                
                                   
-                                 ╔═╗  ╔═╗  ╦ ╦  ╔╦╗
-                                 ╚═╗  ║ ║  ╠═╣   ║ 
-                                  ═╝  ╚═╝  ╩ ╩   ╩          
+                                ╔═╗  ╔═╗  ╦ ╦  ╔╦╗
+                                ╚═╗  ║ ║  ╠═╣   ║ 
+                                 ═╝  ╚═╝  ╩ ╩   ╩          
                 ╔════════════════════════════════════════════════╗
-                ║[TARGET] > "part def 127.0.0.0"
-                ║[PORT] > port ouver 65000
-                ║[TIME] > max part attack 500 sec
-                ║[METHODS] > full activ API  OVH-NUKE
-                ║[PPS] > -1 (UNLINITED)
-                ║[ full vps 
+                ║[TARGET] > "part def 127.0.0.0"                 ║
+                ║[PORT] > port ouver 65000                       ║
+                ║[TIME] > max part attack 500 sec                ║
+                ║[METHODS] > full activ API  OVH-NUKE            ║
+                ║[PPS] > -1 (UNLINITED)                          ║
+                ║[ full vps                                      ║
                 ╚═════════╦════════════════════════════╦═════════╝
                 ╔═════════╩════════════════════════════╩═════════╗
-                ║[USER] > XtraFox
-                ║[VIP] > True
+                ║[USER] > XtraFox                                ║
+                ║[VIP] > True                                    ║
                 ╚════════════════════════════════════════════════╝"""
 
 ascii3 = """
